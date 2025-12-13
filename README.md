@@ -12,6 +12,9 @@ This project implements a convolutional neural network (CNN) to classify diabeti
 It combines two publicly available Kaggle datasets, handles class imbalance, and evaluates performance using Top-K accuracy, precision, recall, F1-score, confusion matrices, and ROC-AUC curves.
 
 ---
+## Paper
+
+The full report for this project is included in the main directory.
 
 ## Datasets
 
